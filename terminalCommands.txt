@@ -34,3 +34,4 @@ CREAZIONE CONTROLLER:
 php artisan make:controller UserController
 Il nome deve essere al singolare, in PascalCase e seguito dalla parola Controller.
 
+<3 love u SALVO 
